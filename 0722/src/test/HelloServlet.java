@@ -26,7 +26,7 @@ public class HelloServlet extends HttpServlet {
 	@Override
 	public void init() throws ServletException {
 		// TODO Auto-generated method stub
-		System.out.println("init요청!!!");
+		System.out.println("init요청!!!!");
 	}
 	
 	
